@@ -1,7 +1,10 @@
 # docsify使用
 
-## 文档地址
+## docsify地址
 https://lxx1735827.github.io/docsify-leetcode/#/zh-cn/guide
+
+## docsify文档地址
+https://iyukiyama.github.io/docsify-in-action/
 
 ## 创建一个文件夹
 

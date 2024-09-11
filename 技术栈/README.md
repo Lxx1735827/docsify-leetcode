@@ -5,6 +5,7 @@
 - React Native
 ### 后端
 - python/java/c++(需要搭建云服务器)
+- fastapi
 ### 数据库
 - mysql
 ### 算法
